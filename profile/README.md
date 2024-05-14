@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Welcome to UpstreamDB!
+Welcome to MineralAnswers.com!
