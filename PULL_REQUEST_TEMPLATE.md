@@ -4,6 +4,6 @@
 
 
 ## Proof
-<!-- A picture is worth a thousand words; provide some visual proof of your changes working -->
+<!-- A picture is worth a thousand words; provide some visual proof of your changes working. -->
 
 
